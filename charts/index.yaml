@@ -5,7 +5,7 @@ entries:
       artifacthub.io/prerelease: "false"
     apiVersion: v1
     appVersion: v1.5.4
-    created: "2021-10-13T13:49:12.813383773+02:00"
+    created: "2021-10-13T13:52:57.478613078+02:00"
     description: A Helm chart for cert-manager
     digest: db580ba5c91a7f815b6e6fbbffe535fd5593239fc0206973503a7a20a61b0228
     home: https://github.com/jetstack/cert-manager
@@ -29,7 +29,7 @@ entries:
       category: DeveloperTools
     apiVersion: v2
     appVersion: 0.10.0
-    created: "2021-10-13T13:49:12.820078777+02:00"
+    created: "2021-10-13T13:52:57.483685431+02:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -58,7 +58,7 @@ entries:
   gitpod:
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2021-10-13T13:49:12.838350416+02:00"
+    created: "2021-10-13T13:52:57.49827569+02:00"
     dependencies:
     - condition: docker-registry.enabled
       name: docker-registry
@@ -87,7 +87,7 @@ entries:
   jaeger-operator:
   - apiVersion: v1
     appVersion: 1.24.0
-    created: "2021-10-13T13:49:12.839101492+02:00"
+    created: "2021-10-13T13:52:57.498959807+02:00"
     description: jaeger-operator Helm chart for Kubernetes
     digest: 1880c0da62b475d22ee2bd2b5bf0565abfa9d3546797a52376e72817f753165e
     home: https://www.jaegertracing.io/
@@ -103,4 +103,4 @@ entries:
     urls:
     - alekonko.github.io/my-helm-charts/jaeger-operator-2.25.0.tgz
     version: 2.25.0
-generated: "2021-10-13T13:49:12.804022773+02:00"
+generated: "2021-10-13T13:52:57.468913431+02:00"
